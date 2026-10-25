@@ -1,4 +1,0 @@
-imgproc_O0           zmm=0     ymm=0     xmm=92   
-imgproc_O2           zmm=0     ymm=0     xmm=400  
-imgproc_O3           zmm=0     ymm=332   xmm=650  
-imgproc_O3_avx512    zmm=330   ymm=272   xmm=291  
